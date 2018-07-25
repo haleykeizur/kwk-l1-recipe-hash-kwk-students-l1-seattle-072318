@@ -1,4 +1,9 @@
-perf#code your solutions here
+perfect_10_recipe = {
+  :almond_flour => "2 cups",
+  :gluten_freewhole_oats => "1 cup",
+  :kosher_salt => "1/2 tea spoon",
+  
+}
 
 #1. Create a hash called `perfect_10_recipe` that has the following data:
 #  - almond flour - 2 cups
